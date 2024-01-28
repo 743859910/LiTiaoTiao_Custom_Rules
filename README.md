@@ -2,7 +2,12 @@
 
 ---
 
-[LiTiaotiao_Custom_Rules.txt](https://raw.github.ink/wlc743859910/LiTiaotiao_Custom_Rules/master/LiTiaotiao_Custom_Rules.txt)
+| 仓库链接 | [LiTiaotiao_Custom_Rules](https://github.com/wlc743859910/LiTiaotiao_Custom_Rules) |
+| :------: | :----------------------------------------------------------: |
+| 加速链接 | [LiTiaotiao_Custom_Rules.txt](https://raw.github.ink/wlc743859910/LiTiaotiao_Custom_Rules/master/LiTiaotiao_Custom_Rules.txt) |
+| 原始链接 | [LiTiaotiao_Custom_Rules.txt](https://github.com/wlc743859910/LiTiaotiao_Custom_Rules/blob/master/LiTiaotiao_Custom_Rules.txt) |
+| 原始链接 | [LiTiaotiao_Custom_Rules.txt](https://raw.githubusercontent.com/wlc743859910/LiTiaotiao_Custom_Rules/master/LiTiaotiao_Custom_Rules.txt) |
+| 加速链接 | [LiTiaotiao_Custom_Rules.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/LiTiaotiao_Custom_Rules/master/LiTiaotiao_Custom_Rules.txt) |
 
 ---
 
