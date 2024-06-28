@@ -1004,6 +1004,10 @@
 
 ---
 
+# 如果您觉得本工具对您有帮助，不妨在右上角点亮一颗小星星，以示鼓励！
+
+---
+
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/LiTiaotiao_Custom_Rules/master/img/1.webp">
 </p>
