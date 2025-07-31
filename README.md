@@ -12,7 +12,10 @@
 ---
 
 ### 家庭内网有软路由设备或者买个公网云服务器
+
 ### 部署 AdGuard Home 从 DNS 解析的时候直接就可以屏蔽广告链接从而实现全屋设备去广告
+
+### 也可以直接使用我搭建好的：https://github.com/743859910/LiTiaoTiao_Custom_Rules/issues/7
 
 ---
 
