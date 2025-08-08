@@ -1048,7 +1048,7 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{LiTiaotiao_Custom_Rules}/count.svg)
+![name](https://api.likepoems.com/counter/get/@LiTiaotiao_Custom_Rules)
 
 ---
 
