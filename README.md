@@ -1048,10 +1048,6 @@
 
 ---
 
-![name](https://api.likepoems.com/counter/get/@LiTiaotiao_Custom_Rules)
-
----
-
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
